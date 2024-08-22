@@ -1,0 +1,25 @@
+Glosario
+Tabla goles y asistencias:
+Index 
+Year = año, desde 1974 a 2023 – esta tabla posee el año donde se puede sacar particularmente la estadística y como fue el rendimiento de ese jugador durante ese periodo
+Name = nombre del jugador hay 1050 valores únicos
+Position = aquí vemos la posición en la que se destaca cada jugador 
+Age= edad que tenia el jugador en ese momento 
+Club name = nombre del club en el cual estaba jugando el jugador ( 213 valores únicos)
+League name = nombre de la liga que esta el jugador (38 ligas)
+Matches played = cantidad de partidos jugados
+Goals = golges anotados en ese año
+Assist = asistencias realizadas 
+Points = suma de goles mas asistencias
+
+--------------------------------------------------------
+
+best Futbol Player
+Index = índice 
+Unmaned = segundo índice
+Name = nombre del jugador
+Born = fecha de nacimiento del jugador
+Position = posición del jugador, hay cuatro posiciones en esta tabla
+Debut year = año del debut
+Nationality = nacionalidad del jugador
+Club = club del jugador
